@@ -1,0 +1,10 @@
+{
+    "type": "code",
+    "modid": "kilntimeviewer",
+    "name": "Kiln Time Viewer",
+    "authors": ["Noelle Lavenza"],
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "1.17.0"
+    }
+}
